@@ -15,15 +15,15 @@ To simplify my model, I filtered the dataset to include houses for sale in Lahor
 
 
 ## Model
-My final model is a Random Forest with an accuracy of 83% with 8 features (`Area`, `Beds`, `Baths`, `Age`, `DHA Defence`, `Parking Spaces`, `Servant Quarters`, `Park`). It has a MSE of 1.5 crores and a RMSE of 1.2 crores [see modelling](modelling.ipynb).
+My final model is a Random Forest with an accuracy of 83% with 8 features (`Area`, `Beds`, `Baths`, `Age`, `DHA Defence`, `Parking Spaces`, `Servant Quarters`, `Park`). It has a MSE of 1.5 crores and a RMSE of 1.2 crores ([see modelling](modelling.ipynb)).
 
 
 ## Findings
-* DHA Lahore is most common location for listings [see eda-one day](eda-one-day.ipynb)
-* Home buyers are willing to pay a premium for a Jacuzzi [see eda-one day](eda-one-day.ipynb)
-* Houses more than 5 years old perform well compared to new houses [see eda-one-day](eda-one-day.ipynb)
-* About a quarter of listings on Zameen.com are duplicate [see data-preprocessing](data-preprocessing.ipynb)
-* Commerical plots in Islamabad moved quite a bit in December 2020 [see eda-month-duplicates-and-price-changes](eda-month-duplicates-and-price-changes.ipynb)
+* DHA Lahore is most common location for listings ([see eda-one day](eda-one-day.ipynb))
+* Home buyers are willing to pay a premium for a Jacuzzi ([see eda-one day](eda-one-day.ipynb))
+* Houses more than 5 years old perform well compared to new houses ([see eda-one-day](eda-one-day.ipynb))
+* About a quarter of listings on Zameen.com are duplicate ([see data-preprocessing](data-preprocessing.ipynb))
+* Commerical plots in Islamabad moved quite a bit in December 2020 ([see eda-month-duplicates-and-price-changes](eda-month-duplicates-and-price-changes.ipynb))
 
 
 ## Discussion
